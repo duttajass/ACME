@@ -1,0 +1,8 @@
+{
+  "name": "acme_final",
+  "app_id": "82d8acfe",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
